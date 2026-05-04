@@ -1,7 +1,6 @@
 # Apache & Nginx Web Server Setup Toolkit
 
-A clean, well‑structured toolkit for installing, configuring, and troubleshooting Apache and Nginx on Debian/Ubuntu systems.  
-Built for learning, home labs, and real-world Linux/hosting support workflows.
+Complete Apache & Nginx setup toolkit with configs, scripts, troubleshooting guides, and real-world Linux support workflows.
 
 This project includes:
 - Automated installation scripts  
