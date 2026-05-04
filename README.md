@@ -1,6 +1,7 @@
 # Apache & Nginx Web Server Setup Toolkit
 
-Complete Apache & Nginx setup toolkit with configs, scripts, troubleshooting guides, and real-world Linux support workflows.
+## 📘 About This Project
+This project demonstrates practical Linux hosting support skills through real-world Apache and Nginx setup workflows. It includes installation scripts, configuration examples, troubleshooting guides, and quick-reference notes designed to mirror the tools and processes used in actual support environments.
 
 This project includes:
 - Automated installation scripts  
