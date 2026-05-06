@@ -173,5 +173,3 @@ Feel free to fork, modify, or expand this toolkit.
 Suggestions and improvements are always welcome.
 When you paste and commit this README, your repo becomes portfolio-ready.
 This is the moment where your project stops being “a folder of files” and becomes something you can proudly show to employers, link on your resume, or use in interviews.
-
-Tell me when it’s committed, and I’ll help you polish your GitHub repo description and tags so it looks even more professional.
